@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Signika&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One&display=swap');
+.header{
+	background-image: url("back.jpg");
+	text-align: center;
+	color: white;
+	padding: 20px 0;
+}
+h1{
+	font-family: "Sigmar One";
+}
+#slogan{
+	font-family: "Signika";
+}
+.start{
+	background-color: #ff0080;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	font-size: 15px;
+	color: white;
+}
+.contentpic{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-right: 50px;
+}
+.imagetd{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.footer{
+	background-color: gray;
+	color: #ff3399;
+	text-align: right;
+	padding: 10px;
+}
+.content{
+	opacity: 0.2;
+	font-family: "Raleway";
+}
+#fistbar{
+	font: left;
+	padding: 50px;
+}
+#secondbar{
+	clear: right;
+}
+#title{
+	font-family: "Abril Fatface";
+	font-size: 20px;
+}
